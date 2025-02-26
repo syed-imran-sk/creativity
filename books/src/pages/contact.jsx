@@ -79,6 +79,9 @@ const contact = () => {
     <div class="col-md-12">
         <p class="text-center m-0">Copyright: 2024. Designed and Developed by Syed_Imran❤️</p>
     </div>
+    <div>
+        <p>Vankkam da mapla chennai la irunthu</p>
+    </div>
 </div>
 </footer>
 
